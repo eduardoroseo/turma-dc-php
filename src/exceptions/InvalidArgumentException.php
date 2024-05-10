@@ -1,6 +1,6 @@
 <?php
 
-namespace src\exceptions\Math;
+namespace src\exceptions;
 
 use Exception;
 

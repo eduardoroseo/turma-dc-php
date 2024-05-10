@@ -2,7 +2,7 @@
 
 namespace src\utils;
 
-use src\exceptions\Math\InvalidArgumentException;
+use src\exceptions\InvalidArgumentException;
 
 class StatisticsCalculator
 {
