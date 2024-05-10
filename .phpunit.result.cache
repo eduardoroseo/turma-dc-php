@@ -1,0 +1,1 @@
+{"version":1,"defects":{"MatematicaTest::test_divisao_por_zero":8},"times":{"MatematicaTest::test_soma_dois_numeros_com_sucesso":0.008,"MatematicaTest::test_soma_dois_numeros_com_erro":0.002,"MatematicaTest::test_divisao_por_zero":0.009}}
